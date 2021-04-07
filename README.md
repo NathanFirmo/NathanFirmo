@@ -13,9 +13,7 @@
 </p>
 
 <h2  align="left"> Ferramentas: <h2>
-<p align="left">
-<strong>VS Code, GIMP, Git e GitHub.</strong>
-</p>
+<p align="left"> <strong>VS Code, GIMP, Git e GitHub.</strong> </p>
 
 <p align="left">
    Quer falar comigo? Então clica aqui em baixo e vamos conversar!
