@@ -12,10 +12,10 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h2  align="left"> Ferramentas: </h2>
+<h2  align="left"> Ferramentas</h2>
  <p align="left"> <strong>VS Code, GIMP, Git e GitHub.</strong> </p>
  
-<h2  align="left"> Contato: </h2>
+<h2  align="left"> Contato</h2>
 <p align="left">
    Quer falar comigo? Então clica aqui em baixo e vamos conversar!
 </p>
