@@ -1,19 +1,24 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<h2 align="left">Sobre mim</h2>
 <p align="left"> 
  Olá, meu nome é Nathan, atualmente estou estudando <strong>Front-End</strong>. Gosto de pensar que sou um artista e meus códigos são minhas obras. Amo ajudar as pessoas e dar uma melhor experiência usuário.
 </p>
 
+  <h2 align="left">Linguagens<h2>
+<p>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<h2  align="left"> Ferramentas: <h2>
 <p align="left">
-   Linguagens: <strong>HTML5, CSS3 e JavaScript.</strong>
+<strong>VS Code, GIMP, Git e GitHub.</strong>
 </p>
 
 <p align="left">
-   Ferramentas: <strong>VS Code, GIMP, Git e GitHub.</strong>
-</p>
-
-<p align="left">
-   Quer falar comigo? Então clicar aqui em baixo e vamos conversar!
+   Quer falar comigo? Então clica aqui em baixo e vamos conversar!
 </p>
 
 <p align="left">
