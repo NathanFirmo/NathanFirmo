@@ -2,8 +2,12 @@
 
 <h2 align="left">Sobre mim</h2>
 <p align="left"> 
- Olá, meu nome é Nathan, atualmente estou estudando <strong>Front-End</strong>. Gosto de pensar que sou um artista e meus códigos são minhas obras. Amo ajudar as pessoas e dar uma melhor experiência usuário.
+ Olá, meu nome é Nathan, sou desenvolvedor <strong>Front-End</strong>. Gosto de pensar que sou um artista e meus códigos são minhas obras. Amo ajudar as pessoas e dar uma melhor experiência usuário.
 </p>
+
+<blockquote>
+"Programação não é só uma forma de automatizar tarefas, mas é também despertar sentimentos e emoções nas pessoas que interagem com a tecnologia criada."
+</blockquote>
 
   <h2 align="left">Linguagens<h2>
 <p>
