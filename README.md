@@ -2,7 +2,7 @@
 
 <h2 align="left">Sobre mim</h2>
 <p align="left"> 
- Olá, meu nome é Nathan, sou desenvolvedor <strong>Front-End</strong>. Gosto de pensar que sou um artista e meus códigos são minhas obras. Amo ajudar as pessoas e dar uma melhor experiência usuário.
+ Olá, meu nome é Nathan, sou <strong>desenvolvedor Web</strong>. Gosto de pensar que sou um artista e meus códigos são minhas obras. Amo ajudar as pessoas e dar uma melhor experiência usuário.
 </p>
 
 <blockquote>
