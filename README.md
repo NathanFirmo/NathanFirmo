@@ -14,7 +14,7 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanFirmo&hide=html&layout=compact&theme=dracula"/>
 </div>
  
- <h2 align="left">Já estou usando<h2>
+ <h2 align="left">Trabalho com<h2>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
