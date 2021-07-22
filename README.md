@@ -2,7 +2,7 @@
 
 <h2 align="left">Sobre mim</h2>
 <p align="left"> 
- Olá, meu nome é <a href="http://nathan-firmo.vercel.app" target="_blank">Nathan</a>, sou <strong>desenvolvedor Web</strong>. Gosto de pensar que sou um artista e meus códigos são minhas obras. Amo ajudar as pessoas e dar uma melhor experiência usuário.
+ Olá, meu nome é <a href="http://nathan-firmo.vercel.app" target="_blank">Nathan</a>, sou <strong>desenvolvedor  </strong> na <a href="" target="_blank">incentive.me</a>. Gosto de pensar que sou um artista e meus códigos são minhas obras. Amo ajudar as pessoas e dar uma melhor experiência usuário.
 </p>
 
 <blockquote>
