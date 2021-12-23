@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador">
 
 <h2 align="left">Sobre mim</h2>
 <p align="left"> 
