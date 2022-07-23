@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador">
 
-<h2 align="left">About</h2>
+<h1 align="left">About</h1>
 <p align="left"> 
  Hi, my name's <strong>Nathan</strong>, I'm a <strong>software developer</strong> at <a href="https://incentive.me" target="_blank">Incentive.me</a>. I usually think I'm not only a programmer but an artist. I love helping people and giving good experience to users.
 </p>
