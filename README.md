@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador">
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About</h2>
 <p align="left"> 
- Olá, meu nome é <strong>Nathan</strong>, sou <strong>desenvolvedor  </strong> na <a href="https://incentive.me" target="_blank">Incentive.me</a>. Gosto de pensar que sou um artista e meus códigos são minhas obras. Amo ajudar as pessoas e dar uma melhor experiência ao usuário.
+ Hi, my name's <strong>Nathan</strong>, I'm a <strong>software developer</strong> at <a href="https://incentive.me" target="_blank">Incentive.me</a>. I usually think I'm not only a programmer but an artist. I love helping people and giving good experience to users.
 </p>
 
 <blockquote>
-"Programação não é só uma forma de automatizar tarefas, mas é também despertar sentimentos e emoções nas pessoas que interagem com a tecnologia criada."
+"Programming isn't only a way to automate tasks, but also waken emotions to people who interacts with the created technology."
 </blockquote>
 </br>
 <div align="center">
@@ -14,8 +14,8 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanFirmo&hide=html&layout=compact&theme=dracula"/>
 </div>
  
- <h2 align="left">Trabalho com<h2>
-<p>
+ <h2 align="left">Currently working with<h2>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -30,9 +30,8 @@
  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
  <!-- img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/ -->
  
-</p>
-   <h2 align="left">Estou estudando<h2>
-<p>
+
+   <h2 align="left">Studying<h2>
  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
  <!-- img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" -->
  <!-- img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/ -->
@@ -41,9 +40,9 @@
  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
     
-<h2  align="left"> Contato</h2>
+<h2  align="left">Contact</h2>
 <p align="left">
-   Quer falar comigo? Então clica aqui em baixo e vamos conversar!
+  Wants to talk with me? Click here! Let's talk!
 </p>
 
 <p align="left">
