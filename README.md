@@ -2,7 +2,7 @@
 
 <h1 align="left">About</h1>
 <p align="left"> 
- Hi, my name's <strong>Nathan</strong>, I'm a <strong>software developer</strong> at <a href="https://incentive.me" target="_blank">Incentive.me</a>. I usually think I'm not only a programmer but an artist. I love helping people and giving good experience to users.
+ Hi, my name's <strong>Nathan</strong>, I'm a <strong>software developer</strong> at <a href="https://incentive.me" target="_blank">Incentive.me</a>, and the <a href="https://brasilaberto.com/" target="_blank">Brasil Aberto</a> creator. I usually think I'm not only a programmer but an artist. I love helping people and giving good experience to users.
 </p>
 
 <blockquote>
