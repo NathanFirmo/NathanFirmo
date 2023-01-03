@@ -95,8 +95,7 @@
   src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"
   align="left"
 />
-You can send me bitcoins at this address
-<code>bc1q4mk7za4mvl2f9tcjmcn0tyvdgzjy308ndytmsc</code>
+You can send me bitcoins at this address <code>bc1q4mk7za4mvl2f9tcjmcn0tyvdgzjy308ndytmsc</code> or via lightning network to <code>carsickparsnip15@walletofsatoshi.com</code>.
 
 <h2 align="left">Contact</h2>
 <p align="left">Wants to talk with me? Click here! Let's talk!</p>
