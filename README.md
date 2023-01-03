@@ -39,7 +39,10 @@
  <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
  <!-- img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" -->
 </p>
-    
+
+<h2  align="left">Buy me a coffee :coffee:</h2>
+<img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" align="left"/> You can send me bitcoins at this address <code>bc1q4mk7za4mvl2f9tcjmcn0tyvdgzjy308ndytmsc</code> 
+        
 <h2  align="left">Contact</h2>
 <p align="left">
   Wants to talk with me? Click here! Let's talk!
@@ -47,5 +50,5 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nathan-de-souza-silva-firmo/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-de-souza-silva-firmo/" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>  
