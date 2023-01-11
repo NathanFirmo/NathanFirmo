@@ -22,7 +22,7 @@
 
 <br />
 
-<div align="center">
+<!--div align="center">
   <img
     height="160px"
     src="https://github-readme-stats.vercel.app/api?username=NathanFirmo&theme=dracula&count_private=true"
@@ -31,7 +31,7 @@
     height="160px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanFirmo&hide=html&layout=compact&theme=dracula"
   />
-</div>
+</div-->
 
 <h2 align="left">Currently working with</h2>
 <p>
