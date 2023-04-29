@@ -10,10 +10,9 @@
   Hi, my name's <strong>Nathan</strong>, I'm a
   <strong>software developer</strong> at
   <a href="https://incentive.me" target="_blank">Incentive.me</a>, and the
-  creator of some some sites, APIs and apps like
-  <a href="https://brasilaberto.com/" target="_blank">Brasil Aberto</a>, 
-  <a href="https://awesometools.dev/" target="_blank">Awesome tools</a> and
-  <a href="https://github.com/CleanyTube/CleanyTube" target="_blank">CleanyTube</a>.
+  creator of 
+  <a href="https://brasilaberto.com/" target="_blank">Brasil Aberto</a> and
+  <a href="https://awesometools.dev/" target="_blank">Awesome tools</a>.
   I usually think I'm not only a programmer but an artist. I love helping people
   and giving good experience to users.
 </p>
