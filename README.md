@@ -24,17 +24,6 @@
 
 <br />
 
-<!--div align="center">
-  <img
-    height="160px"
-    src="https://github-readme-stats.vercel.app/api?username=NathanFirmo&theme=dracula&count_private=true"
-  />
-  <img
-    height="160px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanFirmo&hide=html&layout=compact&theme=dracula"
-  />
-</div-->
-
 <h2 align="left">Currently working with</h2>
 <p>
   <img
@@ -59,13 +48,7 @@
     src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"
-  />
-  <img
     src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"
   />
   <img
     src="ttps://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"
@@ -73,7 +56,11 @@
   <img
     src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"
   />
-  <!-- img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/ -->
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"
+  />
 </p>
 
 <h2 align="left">Studying</h2>
@@ -81,11 +68,8 @@
   <img
     src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"
   />
-  <img
-    src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"
-  />
   <!--img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"-->
-  <!-- img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/ -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img
     src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
   />
@@ -93,6 +77,16 @@
     src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"
   />
   <!-- img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" -->
+</p>
+
+<h2 align="left">OS and dev tools</h2>
+<p>
+  <img
+    src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"
+  />
+  <img
+    src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"
+  />
 </p>
 
 <h2 align="left">Buy me a coffee</h2>
