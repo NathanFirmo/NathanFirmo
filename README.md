@@ -116,7 +116,7 @@ You can send me bitcoins at this address <code>bc1q4mk7za4mvl2f9tcjmcn0tyvdgzjy3
 
 <p align="left">
   <a
-    href="https://www.linkedin.com/in/nathan-de-souza-silva-firmo/"
+    href="https://www.linkedin.com/in/nathan-firmo/"
     alt="Linkedin"
   >
     <img
