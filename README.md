@@ -94,16 +94,6 @@
   <!-- img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" -->
 </p>
 
-<h2 align="left">OS and dev tools</h2>
-<p>
-  <img
-    src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"
-  />
-  <img
-    src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"
-  />
-</p>
-
 <h2 align="left">Buy me a coffee</h2>
 <img
   src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"
