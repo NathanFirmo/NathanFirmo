@@ -73,14 +73,6 @@
  <img
     src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white"
   /> 
-</p>
-
-<h2 align="left">Studying</h2>
-<p>
-  <img
-    src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"
-  />
-  <!--img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"-->
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img
     src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
@@ -88,6 +80,14 @@
   <img
     src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"
   />
+</p>
+
+<h2 align="left">Studying</h2>
+<p>
+  <!-- img
+    src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"
+  /-->
+  <!--img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"-->
  <img
     src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
   />     
